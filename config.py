@@ -5,7 +5,7 @@ from dataclasses import dataclass
 KEYS = ["Número De Vagas", "Empresa", "Salário", "Cidade/Estado:", 
     "Tipo De Vaga:", "Regime De Contrato", "Descrição", "URL"]
 
-BASE_URL = "https://www.trabalhabrasil.com.br"
+BASE_URL = 
 RESULTS_PATH = "/vagas-empregos-em-"
 
 #pagina resultados
